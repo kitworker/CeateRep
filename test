@@ -1,8 +1,9 @@
 #!/bin/bash
-git config --global user.name "kitworker"
-git config --global user.email kasyanov@gmail.com
-git config --global user.password uql282uql
-echo "authentication success!"
+#íå ğàáîòàåò :(
+#git config --global user.name "kitworker"
+#git config --global user.email kasyanov@gmail.com
+#git config --global user.password uql282uql
+#echo "authentication success!"
 # ÍÅÎÁÕÎÄÈÌÎ ÏÅĞÂÛÉ ĞÀÇ # git remote add origin https://github.com/kitworker/CeateRep.git
 git push -u origin master
 echo "pushed to CeateRep.git"
